@@ -1,5 +1,4 @@
 # Real-tiime-speech-to-text-system-for-customer-support-automation
-
 🗣️ Speech-to-Text for Transcription Services
 This project provides a basic speech-to-text transcription system using Python. It allows users to convert audio input into text for transcription purposes, leveraging popular libraries and APIs.
 
@@ -71,3 +70,4 @@ Performance may vary with accents and speech clarity.
 
 📄 License
 MIT License
+
